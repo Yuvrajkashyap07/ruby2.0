@@ -1,0 +1,25 @@
+sku,name,category,pack_size,unit,mrp,cost,image,description
+RICE-001,Sona Masoori Rice,Rice & Grains,5 kg bag,bag,425.0,306.0,rice.webp,5 kg everyday rice pack
+RICE-002,Basmati Rice,Rice & Grains,5 kg bag,bag,585.0,421.2,rice.webp,Premium long-grain rice
+RICE-003,Idli Rice,Rice & Grains,5 kg bag,bag,345.0,248.4,rice.webp,Parboiled rice for idli and dosa
+RICE-004,Raw Rice,Rice & Grains,5 kg bag,bag,365.0,262.8,rice.webp,Daily cooking rice
+ATTA-001,Whole Wheat Atta,Flour & Staples,5 kg bag,bag,285.0,205.2,atta.webp,Whole wheat flour pack
+ATTA-002,Multigrain Atta,Flour & Staples,5 kg bag,bag,345.0,248.4,atta.webp,Multigrain flour blend
+DAL-001,Toor Dal,Pulses & Dals,1 kg pouch,pouch,189.0,136.08,toor_dal.webp,Everyday split pigeon peas
+DAL-002,Masoor Dal,Pulses & Dals,1 kg pouch,pouch,145.0,104.4,masoor_dal.webp,Red lentils
+DAL-003,Chana Dal,Pulses & Dals,1 kg pouch,pouch,112.0,80.64,toor_dal.webp,Split Bengal gram
+OIL-001,Sunflower Oil,Oil & Ghee,1 litre bottle,bottle,185.0,133.2,sunflower_oil.webp,Refined sunflower cooking oil
+OIL-002,Groundnut Oil,Oil & Ghee,1 litre bottle,bottle,210.0,151.2,groundnut_oil.webp,Groundnut cooking oil
+OIL-003,Mustard Oil,Oil & Ghee,1 litre bottle,bottle,175.0,126.0,sunflower_oil.webp,Mustard cooking oil
+SUGAR-001,Refined Sugar,Pantry Essentials,1 kg pack,pack,48.0,34.56,sugar.webp,White refined sugar
+SALT-001,Iodised Salt,Pantry Essentials,1 kg pack,pack,28.0,20.16,salt.webp,Iodised table salt
+TEA-001,Everyday Tea,Tea & Coffee,500 g pack,pack,245.0,176.4,tea.webp,Black tea blend
+COFFEE-001,Instant Coffee,Tea & Coffee,100 g jar,jar,165.0,118.8,coffee.webp,Instant coffee jar
+SPICE-001,Turmeric Powder,Spices,200 g pack,pack,72.0,51.84,turmeric.webp,Ground turmeric powder
+SPICE-002,Red Chilli Powder,Spices,200 g pack,pack,95.0,68.4,chilli_powder.webp,Ground red chilli powder
+SPICE-003,Cumin Seeds,Spices,200 g pack,pack,88.0,63.36,chilli_powder.webp,Whole cumin seeds
+HOME-001,Dishwashing Liquid,Home Care,500 ml bottle,bottle,115.0,82.8,dishwash.webp,Liquid dishwashing cleaner
+HOME-002,Laundry Detergent,Home Care,2 kg pack,pack,245.0,176.4,detergent.webp,Detergent powder
+HOME-003,Floor Cleaner,Home Care,1 litre bottle,bottle,135.0,97.2,floor_cleaner.webp,Floor cleaning liquid
+HOME-004,Hand Wash,Home Care,250 ml pump,bottle,95.0,68.4,handwash.webp,Liquid hand wash
+PERSONAL-001,Bath Soap,Personal Care,4 x 100 g pack,pack,145.0,104.4,handwash.webp,Daily bathing soap pack
